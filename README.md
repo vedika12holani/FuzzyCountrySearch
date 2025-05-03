@@ -45,15 +45,14 @@ Both data structures were chosen for **speed**, **efficiency**, and **handling h
 
 ```bash
 javac *.java
-Run the project:
-
-
+```
+3. Run the project
+```bash
 java AutoCompleteDemo
-Start typing prefixes of country names and see suggestions!
+```
+4. Start typing prefixes of country names and see suggestions!
 
-🔥 Example
-vbnet
-Copy code
+## 🔥 Example
 Welcome to the Country Name Autocomplete!
 Type a few letters and see suggestions (handles typos). Type 'exit' to quit.
 
@@ -74,27 +73,30 @@ Suggestions:
 
 Enter prefix: exit
 Goodbye!
-🌟 Future Improvements
-Highlight best match suggestions.
 
-Support multi-word corrections.
+## 🌟 Future Improvements
+1. Highlight best match suggestions.
 
-Add GUI interface for a better user experience.
+2. Support multi-word corrections.
 
-Optimize fuzzy search for larger datasets.
+3. Add GUI interface for a better user experience.
 
-📁 Project Structure
-Copy code
+4. Optimize fuzzy search for larger datasets.
+
+## 📁 Project Structure
 FuzzyCountrySearch/
 ├── TrieNode.java
 ├── Trie.java
 ├── FuzzySearch.java
 ├── AutoCompleteDemo.java
 └── README.md
-👤 Author
-Your Name: Vedika Holani
 
+## 👤 Author
 GitHub: vedika12holani
 
-📥 Clone Repository
+## 📥 Clone Repository
+bash
+```
 git clone https://github.com/yourusername/FuzzyCountrySearch.git
+```
+
