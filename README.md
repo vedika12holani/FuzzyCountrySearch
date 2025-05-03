@@ -100,6 +100,7 @@ FuzzyCountrySearch/
 ---
 
 ## 👤 Author
+Author:Vedika Holani
 GitHub: vedika12holani
 
 ---
