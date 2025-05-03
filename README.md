@@ -52,6 +52,8 @@ java AutoCompleteDemo
 ```
 4. Start typing prefixes of country names and see suggestions!
 
+---
+
 ## 🔥 Example
 Welcome to the Country Name Autocomplete!
 Type a few letters and see suggestions (handles typos). Type 'exit' to quit.
@@ -74,6 +76,8 @@ Suggestions:
 Enter prefix: exit
 Goodbye!
 
+---
+
 ## 🌟 Future Improvements
 1. Highlight best match suggestions.
 
@@ -83,6 +87,8 @@ Goodbye!
 
 4. Optimize fuzzy search for larger datasets.
 
+---
+
 ## 📁 Project Structure
 FuzzyCountrySearch/
 ├── TrieNode.java
@@ -91,8 +97,12 @@ FuzzyCountrySearch/
 ├── AutoCompleteDemo.java
 └── README.md
 
+---
+
 ## 👤 Author
 GitHub: vedika12holani
+
+---
 
 ## 📥 Clone Repository
 bash
